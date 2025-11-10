@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Danush G</h1>
-<h3 align="center">Aspiring AI Engineer and third-year engineering student specializing in Artificial Intelligence and Machine Learning, with a strong foundation in machine learning, deep learning, and data science. Proficient in Python, Java, C, and TensorFlow, with additional expertise in front-end web technologies (HTML, CSS, JavaScript, React) and hands-on experience working with databases such as MySQL and MongoDB.</h3>
+<h3 align="center">Aspiring AI Engineer and Final-year engineering student specializing in Artificial Intelligence and Machine Learning, with a strong foundation in machine learning, deep learning, and data science. Proficient in Python, Java, C, and TensorFlow, with additional expertise in front-end web technologies (HTML, CSS, JavaScript, React) and hands-on experience working with databases such as MySQL and MongoDB.</h3>
 
 - I’m currently working on **Movie Script Generator using LLM**
 
